@@ -8,7 +8,7 @@ int i,x,k,temp=1;
 float sine=0,term;
 cout<<"Enter the number of terms(k)";
 cin>>k;
-cout<<"Enter the angle(x)";
+cout<<"\n Enter the angle(x)";
 cin>>x;
 for(i=0;i<k;i++)
 {
