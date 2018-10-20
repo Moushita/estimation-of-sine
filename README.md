@@ -2,6 +2,7 @@
 A code to calculate the value of sine as derived from Taylor Series Expansion.
 #include <iostream.h>
 #include <constream.h>
+#include <math.h>
 void main()
 {
 int i,x,k,temp=1;
